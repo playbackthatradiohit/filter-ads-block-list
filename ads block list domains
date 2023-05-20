@@ -989,3 +989,7 @@
 0.0.0.0 click.google-analytics.com
 0.0.0.0 cm.crashlytics.com
 0.0.0.0 crashlytics.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
